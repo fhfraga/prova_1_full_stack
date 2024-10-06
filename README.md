@@ -11,7 +11,6 @@ $ npm init -y
 $ npm install
 $ nodemon app.js
 ```
-```
 
 Seu projeto node ficará na url [http://localhost:5000/](http://localhost:5000/)
 
