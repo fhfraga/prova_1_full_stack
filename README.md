@@ -1,4 +1,4 @@
-# Prova Banco de dados não-relacionais
+# Prova de laboratório de programação full stack
 Este projeto é referente a 1º prova da disciplina de laboratório de programação full stack
 
 # Configuração
